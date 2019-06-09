@@ -3,3 +3,6 @@ one writer;
 5 whreter;
 8wrter;
 9 werter;
+10  now;
+12 now;
+15 now;
