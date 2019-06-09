@@ -1,4 +1,3 @@
-
 one writer;
 5 whreter;
 8wrter;
@@ -6,3 +5,8 @@ one writer;
 10  now;
 12 now;
 15 now;
+two writer;
+6 now;
+3 writer;
+four writer;
+5 werter;
